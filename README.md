@@ -28,3 +28,5 @@ We learned about structuring data in a decentralized manner was a huge learning 
 
 ## What's next for DAO.tv
 DAO.tv is looking for it's next steps through interacting with a tes tnetwork, instead of local blockchain. Using the test network opens up the possibility of deploying, and expanding the capabilities of the site.
+
+Developed by Aditya Keerthi, Markos Georghiades, Daniel Yu, and Kevin Gao.
